@@ -1,0 +1,7 @@
+body {
+  background-image: url("stage.jpg");
+  background-color: #cccccc;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: relative;
+}
